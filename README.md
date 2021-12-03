@@ -2,7 +2,7 @@
  Estrutura de dados Java
  
  
- ## Quero deixar aqui meu agradecimento.
+ ## Quero deixar aqui meu Agradecimento.
  ### Ao Instrutor e DIO:
   
   - [João Ricardo Côre Dutra](https://github.com/jrdutra).
