@@ -2,19 +2,12 @@
  Estrutura de dados Java
  
  
- ##### Quero deixar aqui meu agradecimento.
+ ## Quero deixar aqui meu agradecimento.
  ### Ao Instrutor e DIO:
   
   - [João Ricardo Côre Dutra](https://github.com/jrdutra).
   - [Digital Innovation One](https://dio.me/sign-up?ref=R1CBVS7OGL).
 
- ## Sobre o Autor
-
-<a href="https://web.digitalinnovation.one/users/jrdutra">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/22947717?v=4" width="100px;" alt=""/>
- <br />
- <sub><b>João Dutra</b></sub></a> <a href="https://web.digitalinnovation.one/users/jrdutra" title="Dio">🚀</a>
- 
  ## Pré-requisitos
 
 Java SE Development Kit 11 [Download](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html)
